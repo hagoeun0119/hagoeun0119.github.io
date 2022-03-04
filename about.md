@@ -1,6 +1,6 @@
 ---
 layout: about
-image: \assets\img\하고은1.jpg"
+image: \assets\img\하고은1.jpg
 description: >
   컴퓨터과학전공 하고은
 hide_description: true
