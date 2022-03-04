@@ -53,6 +53,7 @@ menu:
     url: /about/
   - title: Back-End Study
     url: /about/
+<<<<<<< HEAD
   - title: SubCat
     url: /about/
     submenu:
@@ -60,6 +61,8 @@ menu:
         url: /test1/
       -title: Test2
         url: /test2/
+=======
+>>>>>>> 33e05682ae356bdff4a041858a8bc1bd76eedeac
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
