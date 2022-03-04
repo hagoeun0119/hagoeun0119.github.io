@@ -53,7 +53,6 @@ menu:
     url: /Front-End Study/
   - title: Back-End Study
     url: /Back-End Study/
-  
   - title: SubCat
     url: /subcat/
     submenu:
