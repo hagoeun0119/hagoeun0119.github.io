@@ -49,10 +49,10 @@ author:
 menu:
   - title: About
     url: /about/
-  - title: Front-End Study
-    url: /Front-End Study/
-  - title: Back-End Study
-    url: /Back-End Study/
+  - title: Front-End
+    url: /FrontEnd/
+  - title: Back-End
+    url: /BackEnd/
   - title: SubCat
     url: /subcat/
     submenu:
