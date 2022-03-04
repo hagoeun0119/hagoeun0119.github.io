@@ -57,9 +57,9 @@ menu:
   - title: SubCat
     url: /about/
     submenu:
-      -title: Test1
+      - title: Test1
         url: /test1/
-      -title: Test2
+      - title: Test2
         url: /test2/
 =======
 >>>>>>> 33e05682ae356bdff4a041858a8bc1bd76eedeac
