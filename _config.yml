@@ -50,18 +50,18 @@ menu:
   - title: About
     url: /about/
   - title: Front-End Study
-    url: /about/
+    url: /Front-End Study/
   - title: Back-End Study
-    url: /about/
-<<<<<<< HEAD
+    url: /Back-End Study/
+  
   - title: SubCat
-    url: /about/
+    url: /subcat/
     submenu:
       - title: Test1
         url: /test1/
       - title: Test2
         url: /test2/
-=======
+
 >>>>>>> 33e05682ae356bdff4a041858a8bc1bd76eedeac
 
 # Add links to the footer.
