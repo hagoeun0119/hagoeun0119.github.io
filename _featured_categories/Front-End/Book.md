@@ -1,6 +1,7 @@
 ---
 layout: list
-category: Front-End
+categories:
+  - Front-End
 bigtitle: Book
 slug: Book
 description: >

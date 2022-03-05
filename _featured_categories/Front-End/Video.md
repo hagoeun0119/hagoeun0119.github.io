@@ -1,6 +1,7 @@
 ---
 layout: list
-category: Front-End
+categories:
+  - Front-End
 bigtitle: Video
 slug: Video
 description: >
